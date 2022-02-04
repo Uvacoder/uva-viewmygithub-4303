@@ -22,6 +22,8 @@ on pnpm: ```pnpm  dev```
 # Thanks to 
 [NuxtJS](https://nuxtjs.org) and [Windi CSS](https://windicss.org) for awesome libaries and tools.
 
+[Mehmetali345Dev GitHub Profile Viewer](https://github.com/Mehmetali345Dev/github-profile-viewer)
+
 [Arda Soyturk's Twitter Profile Viewer](https://github.com/ardasoyturk/twitter-profile-viewer)
 [Eggsy's Lanyard Visualizer](https://github.com/eggsy/lanyard-visualizer)
 Because they're insipired me to make tools like this.
