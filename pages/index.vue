@@ -4,7 +4,7 @@
     <div class="w-full h-full flex justify-center items-center">
       <div class="gap-4 grid m-4">
         <div class="justify-center flex flex-col space-y-3 items-start">
-          <h1 class="text-gray-50 font-bold text-xl">Search user</h1>
+          <h1 class="text-gray-50 font-bold text-xl">Search github username</h1>
           <input
             v-model="user"
             placeholder="Search an user"
