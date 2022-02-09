@@ -1,3 +1,5 @@
+![githubuser-view](screenshot-githubuser-view.png)
+
 # Github Profile Viewer
 Made with Nuxtjs and WindiCSS.
 
